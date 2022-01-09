@@ -1,2 +1,2 @@
 # VolumeControl
-keep the handtrackingmodule and the volumeControl file in the same folder
+keep the handtrackingmodule.py and the volumeControl.py file in the same folder
